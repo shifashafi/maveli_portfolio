@@ -189,3 +189,15 @@ button{
     background-color:#1c8adb;
 }
 
+.Gallery{
+        width: 100%;
+        height: 100vh;
+        overflow: hidden;
+}
+
+.Gallery .imagesgallery{
+    width: 200px;
+    margin: 40px auto 0;
+    overflow:visible;
+
+}
