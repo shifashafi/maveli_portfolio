@@ -48,9 +48,10 @@ nav ul li:not(:last-child) {
     margin-right: 2rem;
 }
 
-/* header {
-
-} */
+.register a{
+    color: #fff;
+    font-size:1rem;
+}
 
 .logo span{
     color: brown;
